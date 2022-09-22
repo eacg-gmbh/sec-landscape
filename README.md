@@ -2,7 +2,7 @@
 
 # EACGs Security Landscape
 
-![EACG Logo](https://raw.githubusercontent.com/eacg-gmbh/logos/master/eacg.png)
+![EACG Logo](https://github.com/eacg-gmbh/sec-landscape/blob/master/logos/EACG_Logo_lang.png)
 
 - EACGs Security Landscape](#eacg-security-landscape)
   - [Interactive Version](#interactive-version)
