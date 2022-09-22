@@ -1,10 +1,10 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/cncf/landscape/blob/master/landscape.yml) [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1767/badge)](https://bestpractices.coreinfrastructure.org/projects/1767) [![Dependency Status](https://img.shields.io/david/cncf/landscape.svg?style=flat-square)](https://david-dm.org/cncf/landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/91337728-8166-4c8f-bc39-9159bf97dcbc/deploy-status)](https://app.netlify.com/sites/landscape/deploys)
 
-# Cloud Native Landscape
+# EACGs Security Landscape
 
-![Cloud Native Landscape Logo](https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.png)
+![EACG Logo](https://raw.githubusercontent.com/eacg-gmbh/logos/master/eacg.png)
 
-- [Cloud Native Landscape](#cloud-native-landscape)
+- EACGs Security Landscape](#eacg-security-landscape)
   - [Interactive Version](#interactive-version)
   - [How to Run on your computer:](#how-to-run-on-your-computer)
   - [New Entries](#new-entries)
@@ -20,13 +20,13 @@
   - [Vulnerability reporting](#vulnerability-reporting)
   - [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
-The [CNCF](https://www.cncf.io) Cloud Native Landscape Project is intended as a map through the previously uncharted terrain of cloud native technologies. This attempts to categorize most of the projects and product offerings in the cloud native space. There are many routes to deploying a cloud native application, with CNCF Projects representing a particularly well-traveled path. It has been built in collaboration with [Redpoint Ventures](https://www.redpoint.com/) and [Amplify Partners](http://www.amplifypartners.com/).
+The [EACG](https://www.eacg.de) Security Landscape project is intended as a map of known proprietary and open source tools to the Cyber-Defense-Matrix. Since we believe in the power of the focus the OWASP Cyber Defense Matrix can deliver to security teams, we use this approach developed for the CNCF to map tools and areas of use. This attempts to categorize as many projects and product offerings as possible. It shall be built in collaboration with the security community and whom ever t, who thinks this is a useful approach.
 
-The software for the interactive landscape has been extracted to https://github.com/cncf/landscapeapp where it is used for other landscapes as well. This repo includes all of the data and images specific to the CNCF landscapes.
+The software for the interactive landscape has been taken from https://github.com/cncf/landscapeapp where it is used for other landscapes as well. This repo includes all of the data and images specific to the Cyber Defense Security Landscape.
 
 ## Interactive Version
 
-Please see [landscape.cncf.io](https://landscape.cncf.io).
+Please see [security.landscape.eacg.de](https://security.landscape.eacg.de).
 
 ## How to Run on your computer:
 **If you have node.js installed locally**, just run `./server.js` from the root directory of the project and open http://localhost:8001 once the site is updated.
